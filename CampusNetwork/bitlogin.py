@@ -9,7 +9,7 @@ response = s.post(
         'action': 'login',
         'username': username,
         'password': password,
-        'ac_id': 8,
+        'ac_id': 1,
         'save_me': 0,
         'ajax': 1
     })

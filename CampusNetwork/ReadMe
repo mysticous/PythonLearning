@@ -3,3 +3,5 @@ A simple python program used to login and logout.
 2017/8/18
 
 2017/9/6 在非宿舍地区登录时要更换代码，已经更改。
+
+2017/9/7 宿舍地区ac_id设置为8，图书馆ac_id设置为1。待补充。

